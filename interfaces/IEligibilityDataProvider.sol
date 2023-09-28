@@ -4,6 +4,7 @@ pragma solidity 0.8.12;
 import "./IChefIncentivesController.sol";
 import "./ILendingPool.sol";
 import "./IMiddleFeeDistribution.sol";
+import "./IPriceProvider.sol";
 
 interface IEligibilityDataProvider {
 	/// @notice Emitted when CIC is set

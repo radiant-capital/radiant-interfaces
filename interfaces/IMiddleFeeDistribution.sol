@@ -3,6 +3,7 @@ pragma solidity 0.8.12;
 
 import "./IMintableToken.sol";
 import "./IMultiFeeDistribution.sol";
+import "./IAaveProtocolDataProvider.sol";
 
 interface IMiddleFeeDistribution {
 	/// @notice Emitted when reward token is forwarded
