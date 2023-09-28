@@ -1,0 +1,13 @@
+{
+  "name": "radiant-interfaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/radiant-capital/radiant-interfaces.git",
+  "author": "JD <jackdoy99@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "prettier": "^3.0.3",
+    "prettier-plugin-solidity": "^1.1.3"
+  }
+}
